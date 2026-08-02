@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-02T18:07:54.440Z",
+  "problems": [
+    {
+      "platform": "gfg",
+      "frontendId": "missing-number-in-array1416",
+      "title": "missing number in array1416",
+      "slug": "missing-number-in-array1416",
+      "difficulty": "Medium",
+      "primaryDomain": "Other",
+      "secondaryDomains": [],
+      "tags": [],
+      "path": "Other/Medium/MISSING-NUMBER-IN-ARRAY1416-missing-number-in-array1-missing-number-in-array1416",
+      "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+      "languages": {
+        "cpp": {
+          "label": "C++",
+          "filename": "solution.cpp",
+          "latestSubmissionId": "auto:missing-number-in-array1416:74274f02",
+          "runtime": "",
+          "memory": "",
+          "solvedAt": "2026-08-02T18:07:51.243Z",
+          "syncSource": "accepted",
+          "context": {
+            "kind": "practice",
+            "contestId": "",
+            "contestTitle": "",
+            "contestUrl": "",
+            "releasedFromVault": false
+          }
+        }
+      },
+      "updatedAt": "2026-08-02T18:07:51.243Z"
+    }
+  ]
+}

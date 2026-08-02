@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-02T18:10:16.280Z",
+  "generatedAt": "2026-08-02T18:17:52.848Z",
   "problems": [
     {
       "platform": "gfg",
@@ -32,6 +32,37 @@
         }
       },
       "updatedAt": "2026-08-02T18:10:15.087Z"
+    },
+    {
+      "platform": "gfg",
+      "frontendId": "second-largest3735",
+      "title": "second largest3735",
+      "slug": "second-largest3735",
+      "difficulty": "Medium",
+      "primaryDomain": "Other",
+      "secondaryDomains": [],
+      "tags": [],
+      "path": "Other/Medium/SECOND-LARGEST3735-second-largest3735-second-largest3735",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+      "languages": {
+        "cpp": {
+          "label": "C++",
+          "filename": "solution.cpp",
+          "latestSubmissionId": "auto:second-largest3735:82f1682f",
+          "runtime": "",
+          "memory": "",
+          "solvedAt": "2026-08-02T18:17:51.467Z",
+          "syncSource": "accepted",
+          "context": {
+            "kind": "practice",
+            "contestId": "",
+            "contestTitle": "",
+            "contestUrl": "",
+            "releasedFromVault": false
+          }
+        }
+      },
+      "updatedAt": "2026-08-02T18:17:51.467Z"
     }
   ]
 }

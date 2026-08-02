@@ -14,11 +14,11 @@
     "cpp": {
       "label": "C++",
       "filename": "solution.cpp",
-      "latestSubmissionId": "auto:missing-number-in-array1416:74274f02",
+      "latestSubmissionId": "manual",
       "runtime": "",
       "memory": "",
-      "solvedAt": "2026-08-02T18:07:51.243Z",
-      "syncSource": "accepted",
+      "solvedAt": "2026-08-02T18:09:11.669Z",
+      "syncSource": "manual",
       "context": {
         "kind": "practice",
         "contestId": "",
@@ -35,5 +35,5 @@
     "contestUrl": "",
     "releasedFromVault": false
   },
-  "updatedAt": "2026-08-02T18:07:51.243Z"
+  "updatedAt": "2026-08-02T18:09:11.669Z"
 }

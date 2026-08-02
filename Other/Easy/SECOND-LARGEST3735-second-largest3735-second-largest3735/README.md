@@ -1,7 +1,7 @@
 <!-- SOLVELOG:GENERATED:START -->
-# second-largest3735. second largest3735
+# second-largest3735. Second Largest
 
-> Medium · Other · Gfg
+> Easy · Other · Gfg
 
 - **Problem:** [Open on Gfg](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 - **Primary topic:** Other
@@ -12,7 +12,7 @@
 
 | Language | Runtime | Memory | Saved |
 |---|---:|---:|---|
-| [C++](./solution.cpp) | — | — | Aug 02, 2026 |
+| [C++](./solution.cpp) | — | — | Aug 03, 2026 |
 
 <!-- SOLVELOG:GENERATED:END -->
 

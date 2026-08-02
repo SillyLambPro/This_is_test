@@ -7,5 +7,6 @@ class Solution {
         vector<int> arr;
         for(auto &x : st) arr.push_back(x);
         return (arr[arr.size() - 2]) ? arr[arr.size() - 2] : -1;
+        
     }
 };

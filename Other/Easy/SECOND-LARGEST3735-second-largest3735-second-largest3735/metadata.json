@@ -3,9 +3,9 @@
   "platform": "gfg",
   "source": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
   "frontendId": "second-largest3735",
-  "title": "second largest3735",
+  "title": "Second Largest",
   "slug": "second-largest3735",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
   "primaryDomain": "Other",
   "secondaryDomains": [],
@@ -14,10 +14,10 @@
     "cpp": {
       "label": "C++",
       "filename": "solution.cpp",
-      "latestSubmissionId": "auto:second-largest3735:82f1682f",
+      "latestSubmissionId": "auto:second-largest3735:45ac51f5",
       "runtime": "",
       "memory": "",
-      "solvedAt": "2026-08-02T18:17:51.467Z",
+      "solvedAt": "2026-08-02T18:34:22.650Z",
       "syncSource": "accepted",
       "context": {
         "kind": "practice",
@@ -35,5 +35,5 @@
     "contestUrl": "",
     "releasedFromVault": false
   },
-  "updatedAt": "2026-08-02T18:17:51.467Z"
+  "updatedAt": "2026-08-02T18:34:22.650Z"
 }

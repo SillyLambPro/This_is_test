@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-02T18:34:24.904Z",
+  "generatedAt": "2026-08-03T14:10:23.207Z",
   "problems": [
     {
       "platform": "gfg",
@@ -63,6 +63,40 @@
         }
       },
       "updatedAt": "2026-08-02T18:34:22.650Z"
+    },
+    {
+      "platform": "leetcode",
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "primaryDomain": "Linked-Lists",
+      "secondaryDomains": [],
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "path": "Linked-Lists/Easy/0021-merge-two-sorted-lists",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "languages": {
+        "cpp": {
+          "label": "C++",
+          "filename": "solution.cpp",
+          "latestSubmissionId": "2091308378",
+          "runtime": "0\nms",
+          "memory": "19.34\nMB",
+          "solvedAt": "2026-08-03T14:10:20.963Z",
+          "syncSource": "accepted",
+          "context": {
+            "kind": "practice",
+            "contestId": "",
+            "contestTitle": "",
+            "contestUrl": "",
+            "releasedFromVault": false
+          }
+        }
+      },
+      "updatedAt": "2026-08-03T14:10:20.963Z"
     }
   ]
 }

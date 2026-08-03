@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "platform": "leetcode",
+  "source": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "frontendId": "21",
+  "title": "Merge Two Sorted Lists",
+  "slug": "merge-two-sorted-lists",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "primaryDomain": "Linked-Lists",
+  "secondaryDomains": [],
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "languages": {
+    "cpp": {
+      "label": "C++",
+      "filename": "solution.cpp",
+      "latestSubmissionId": "2091308378",
+      "runtime": "0\nms",
+      "memory": "19.34\nMB",
+      "solvedAt": "2026-08-03T14:10:20.963Z",
+      "syncSource": "accepted",
+      "context": {
+        "kind": "practice",
+        "contestId": "",
+        "contestTitle": "",
+        "contestUrl": "",
+        "releasedFromVault": false
+      }
+    }
+  },
+  "lastContext": {
+    "kind": "practice",
+    "contestId": "",
+    "contestTitle": "",
+    "contestUrl": "",
+    "releasedFromVault": false
+  },
+  "updatedAt": "2026-08-03T14:10:20.963Z"
+}
